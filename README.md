@@ -17,12 +17,12 @@
 	<tbody>
 		<tr>
 			<td>REST API</td>
-			<td><a href="https://www.postman.com/altimetry-administrator-42467067/workspace/rest">Открыть в Postman</a></td>
+			<td><a href="https://www.postman.com/altimetry-administrator-42467067/workspace/rest">Открыть в Postman</a> / <a href="https://github.com/KiwiGhxst/API-testing/blob/main/DemoShopping.postman_collection.json">Смотреть JSON</a></td>
 			<td>Тестирование основных REST-эндпоинтов: /login, /products, /cart, /orders</td>
 		</tr>
 		<tr>
 			<td>SOAP API</td>
-			<td><a href="https://www.postman.com/altimetry-administrator-42467067/workspace/rest](https://www.postman.com/altimetry-administrator-42467067/workspace/soap/collection/39730520-f11f7ee0-8b68-42d7-8540-6e6bf2956739?action=share&creator=39730520">Открыть в Postman</a></td>
+			<td><a href="https://www.postman.com/altimetry-administrator-42467067/workspace/rest](https://www.postman.com/altimetry-administrator-42467067/workspace/soap/collection/39730520-f11f7ee0-8b68-42d7-8540-6e6bf2956739?action=share&creator=39730520">Открыть в Postman</a> / <a href="https://github.com/KiwiGhxst/API-testing/blob/main/SOAP%20Test.postman_collection.json">Смотреть JSON</a></td>
 			<td>Примеры SOAP-запросов: аутентификация, получение данных</td>
 		</tr>
 	</tbody>
